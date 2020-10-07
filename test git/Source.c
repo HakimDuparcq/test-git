@@ -1,6 +1,1 @@
-ushfiueshfisfiksfjlsg
-fisohfizugièzsgyto
-zukgj
-
-
-eftuyzfgzuyegfyzuf
+int main()
